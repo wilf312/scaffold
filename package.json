@@ -1,5 +1,5 @@
 {
-  "name": "scaffoId",
+  "name": "scaffold",
   "description": "scaffold.",
   "version": "0.0.1",
   "main": "./src/index.js",
@@ -7,7 +7,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wilf312/scaffoId.git"
+    "url": "git+https://github.com/wilf312/scaffold.git"
   },
   "dependencies": {
     "commander": "^2.9.0",
