@@ -1,4 +1,6 @@
 # scaffold
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/wilf312/scaffold.svg)](https://greenkeeper.io/)
 scaffold
 
 todo
